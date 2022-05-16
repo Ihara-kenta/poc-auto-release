@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://github.com/Ihara-kenta/test-auto-release/compare/v0.1.1...v0.1.2) (2022-05-16)
+
+
+### Bug Fixes
+
+* fix something wrong 4 ([#3](https://github.com/Ihara-kenta/test-auto-release/issues/3)) ([b32d747](https://github.com/Ihara-kenta/test-auto-release/commit/b32d747ec3fa00ccfa5fbd5c6cd775d18e828a16))
+
 ### [0.1.1](https://github.com/Ihara-kenta/test-auto-release/compare/v0.1.0...v0.1.1) (2022-05-16)
 
 
