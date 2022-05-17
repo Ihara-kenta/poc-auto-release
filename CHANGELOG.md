@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Ihara-kenta/test-auto-release/compare/v0.1.2...v0.2.0) (2022-05-17)
+
+
+### Features
+
+* feat something 2 ([#5](https://github.com/Ihara-kenta/test-auto-release/issues/5)) ([38c0e92](https://github.com/Ihara-kenta/test-auto-release/commit/38c0e927884edf1cb57d9328c2a9d674ba75ce63))
+
 ### [0.1.2](https://github.com/Ihara-kenta/test-auto-release/compare/v0.1.1...v0.1.2) (2022-05-16)
 
 
