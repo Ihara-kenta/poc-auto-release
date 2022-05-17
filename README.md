@@ -10,6 +10,7 @@ This Repository is [google-github-actions/release-please-action: automated relea
 	- We use **Squash and merge** as Merge Pull Requests option.
 - Force Pull Request's title into [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format.
 - Automate tagging of semantic versioning.
+    - create or update CHANGELOG.md
 
 ### release-please
 
